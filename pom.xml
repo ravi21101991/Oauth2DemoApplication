@@ -67,11 +67,11 @@
 		</dependency>
 
 		<!--SPRING DATA JPA MODULE -->
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-jpa</artifactId>
 			<version>${spring.data.jpa.version}</version>
-		</dependency>
+		</dependency> -->
 
 		<!--SPRING SECURITY CORE -->
 		<dependency>
@@ -95,11 +95,11 @@
 		</dependency>
 
 		<!--SPRING SECURITY TAGLIB -->
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-taglibs</artifactId>
 			<version>${spring.security.taglib.version}</version>
-		</dependency>
+		</dependency> -->
 
 		<!--HIBERNATE CORE MODULE -->
 		<dependency>
